@@ -1,1 +1,1 @@
-"# CrudBebidasPHP" 
+Projeto institucional sugerido por professor, este CRUD foi passado como trabalho de curso técnico. Professor passou como tarefa criar um CRUD em PHP sobre 1 de 10 temas apresentados por ele, que seriam sorteados. Este projeto tem como finalidade avaliar a conhecimento do sovre o que é CRUD e MVC.
